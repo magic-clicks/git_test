@@ -1,10 +1,2 @@
-<!doctype html>
-<head>
-<title>Hello World>
-</head>
-<body>
-<p>Hello World</p>
-<p>test</p>
-<p>testing one more time</p>
-</body>
-<html>
+Hello World
+
